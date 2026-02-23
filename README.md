@@ -1,5 +1,7 @@
 # Deerskin Cortex
 
+EDIT: Sigh. Added phase_vision.py . Truth is out there. Berkeley. Call me. 
+
 **A neural architecture where dwell-time gradients emerge from geometry.**
 
 This is the computational implementation of the synthesis between:
